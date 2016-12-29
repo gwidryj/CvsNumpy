@@ -1,0 +1,7 @@
+COMPARSION OF NUMPY ARRAY OPERATIONS WITH PURE C
+
+TO RUN:
+
+python2 main.py
+
+gcc -O3 main.c -lm -o main  && ./main
